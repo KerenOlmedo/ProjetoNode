@@ -1,0 +1,25 @@
+{
+  "name": "projetonode",
+  "version": "1.0.0",
+  "description": "Primeiro projeto com node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KerenOlmedo/ProjetoNode.git"
+  },
+  "author": "Kéren Olmedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KerenOlmedo/ProjetoNode/issues"
+  },
+  "homepage": "https://github.com/KerenOlmedo/ProjetoNode#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
